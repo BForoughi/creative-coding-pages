@@ -1,19 +1,11 @@
-// let p=[]
-// let numParticles=150
 let firework
 
 function setup() {
   createCanvas(400, 400);
-//p=new Particle(200, 200)
-  // for(let i=0; i<numParticles; i++){
-  //   p.push(new Particle(200, 200))
-  // }
-  // firework=new Firework()
-  colorMode(HSB)
 }
 
 function draw() {
-  background(0, 0.1);
+  background(0, 10);
   if(firework){
     firework.update()
   }
@@ -86,8 +78,7 @@ class Particle{
   }
   
   show(){
-    // fill(255,0,0)
-    fill(this.col, 200,200)
+    fill(255,0,0)
     noStroke()
     ellipse(this.x, this.y, 5)
   }
