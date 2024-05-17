@@ -21,3 +21,13 @@ Focusing on the way the fireworks moved and fell was important to me because I w
 paricles broke off, spread out or fell was vital to the project.
 
 My show piece is version 2 due to the time I spent experimenting with the gravity forces as well as the speed of the particles. On top of this I also added a rebound feature that bounces the particles of the top and sides of the canvas.
+
+## Some of my favourite picture from Fireworks project.
+
+![screenshot](fireworksss1.png)
+
+![screenshot](fireworksss2.png)
+
+![screenshot](fireworksss3.png)
+
+![screenshot](fireworksss4.png)
