@@ -1,5 +1,5 @@
 ---
-title: "FIREWORKS1"
+title: "FIREWORKS"
 date: 2024-05-02
 ---
 
