@@ -1,5 +1,5 @@
 ---
-title: "FIREWORKS1"
+title: "FIREWORKS"
 date: 2024-05-02
 ---
 
@@ -21,3 +21,16 @@ Focusing on the way the fireworks moved and fell was important to me because I w
 paricles broke off, spread out or fell was vital to the project.
 
 My show piece is version 2 due to the time I spent experimenting with the gravity forces as well as the speed of the particles. On top of this I also added a rebound feature that bounces the particles of the top and sides of the canvas.
+
+## Some of my favourite picture from Fireworks project.
+
+<div align="center">
+  <img src="/creative-coding-pages/screenshots/fireworksss1.png" alt="alt text" width="300">
+
+  <img src="/creative-coding-pages/screenshots/fireworksss2.png" alt="alt text" width="300">
+
+  <img src="/creative-coding-pages/screenshots/fireworksss3.png" alt="alt text" width="300">
+
+  <img src="/creative-coding-pages/screenshots/fireworksss4.png" alt="alt text" width="300">
+</div>
+
