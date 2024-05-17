@@ -24,7 +24,4 @@ My show piece is version 2 due to the time I spent experimenting with the gravit
 
 ## Some of my favourite picture from Fireworks project.
 
-<img src="/creative-coding-pages/screenshots/fireworksss1.png" alt="alt text" width="200">
-<img src="/creative-coding-pages/screenshots/fireworksss2.png" alt="alt text" width="200">
-<img src="/creative-coding-pages/screenshots/fireworksss3.png" alt="alt text" width="200">
-<img src="/creative-coding-pages/screenshots/fireworksss4.png" alt="alt text" width="200">
+<img src="/creative-coding-pages/screenshots/fireworksss1.png" alt="alt text" width="200"><img src="/creative-coding-pages/screenshots/fireworksss2.png" alt="alt text" width="200"><img src="/creative-coding-pages/screenshots/fireworksss3.png" alt="alt text" width="200"><img src="/creative-coding-pages/screenshots/fireworksss4.png" alt="alt text" width="200">
