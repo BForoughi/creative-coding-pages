@@ -1,5 +1,5 @@
 ---
-title: "FIREWORKS1"
+title: "ALL SEEING EYE"
 date: 2024-05-02
 ---
 
