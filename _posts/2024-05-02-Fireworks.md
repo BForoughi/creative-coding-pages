@@ -24,10 +24,7 @@ My show piece is version 2 due to the time I spent experimenting with the gravit
 
 ## Some of my favourite picture from Fireworks project.
 
-![screenshot](fireworksss1.png)
-
-![screenshot](fireworksss2.png)
-
-![screenshot](fireworksss3.png)
-
-![screenshot](fireworksss4.png)
+![screenshot](/screenshots/fireworksss1.png)
+![screenshot](/screenshots/fireworksss2.png)
+![screenshot](/screenshots/fireworksss3.png)
+![screenshot](/screenshots/fireworksss4.png)
