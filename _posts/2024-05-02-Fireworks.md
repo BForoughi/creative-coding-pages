@@ -19,3 +19,5 @@ of course I experimented with different colours but the mainly how the fireworks
 For the colours I made the particles able to constantly change the colour of the particles during the time they're on the screen. Whilst the particles were on the screen the particle colours would cycle through the HSB Wheel giving a magical effect to the fireworks.
 Focusing on the way the fireworks moved and fell was important to me because I wanted to make them as realistic as possible and the reality is, not every firework and their particles move in the same way, in the same place, every time. So, experimenting on how different 
 paricles broke off, spread out or fell was vital to the project.
+
+My show piece is version 2 due to the time I spent experimenting with the gravity forces as well as the speed of the particles. On top of this I also added a rebound feature that bounces the particles of the top and sides of the canvas.
