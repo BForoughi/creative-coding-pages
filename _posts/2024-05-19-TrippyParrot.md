@@ -17,3 +17,12 @@ The technique used for the Trippy Parrot project was pixel minpulation. For this
 
 ## Some of my favourite pictures from the Trippy Parrot project.
 
+<div align="center">
+  <img src="/creative-coding-pages/screenshots/parrot01.png" alt="alt text" width="300">
+
+  <img src="/creative-coding-pages/screenshots/parrot02.png" alt="alt text" width="300">
+
+  <img src="/creative-coding-pages/screenshots/parrot03.png" alt="alt text" width="300">
+
+  <img src="/creative-coding-pages/screenshots/parrot04.png" alt="alt text" width="300">
+</div>
